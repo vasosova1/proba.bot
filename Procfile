@@ -1,1 +1,1 @@
-worker: python gurtna.py
+python gurtna.py
